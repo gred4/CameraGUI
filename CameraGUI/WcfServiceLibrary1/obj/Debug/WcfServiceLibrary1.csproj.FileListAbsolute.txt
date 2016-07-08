@@ -1,0 +1,6 @@
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

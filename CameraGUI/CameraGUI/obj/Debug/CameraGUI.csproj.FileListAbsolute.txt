@@ -1,0 +1,16 @@
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\bin\Debug\CameraGUI.exe.config
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\bin\Debug\CameraGUI.exe
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\bin\Debug\CameraGUI.pdb
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.csprojResolveAssemblyReference.cache
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\MainWindow.g.cs
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\App.g.cs
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI_MarkupCompile.cache
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI_MarkupCompile.lref
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\MainWindow.baml
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.g.resources
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.Properties.Resources.resources
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.csproj.GenerateResource.Cache
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.exe
+c:\users\gareddy\documents\visual studio 2015\Projects\CameraGUI\CameraGUI\obj\Debug\CameraGUI.pdb
+C:\Users\gareddy\Documents\Visual Studio 2015\Projects\CameraGUI\CameraGUI\bin\Debug\OzekiSDK.dll
+C:\Users\gareddy\Documents\Visual Studio 2015\Projects\CameraGUI\CameraGUI\bin\Debug\Newtonsoft.Json.dll
